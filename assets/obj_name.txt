@@ -1,0 +1,3 @@
+assets/obj_1/testmeshA_landmarks.ply
+assets/obj_2/man_bust_landmarks.ply
+assets/obj_3/Pasha_guard_head_landmarks.ply
