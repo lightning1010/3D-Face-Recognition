@@ -1,0 +1,10 @@
+python recognition.py --c configs/DTU3D-RGB.json --n new_obj/testmeshA.obj
+
+
+# create lanksmarks points
+python predict.py --c configs/DTU3D-RGB.json --n assets/obj_1/testmeshA.obj
+
+python predict.py --c configs\DTU3D-depth.json --n assets/obj_2/man_bust.obj
+
+python predict.py --c configs\DTU3D-RGB_Artec3D.json --n assets/obj_3/Pasha_guard_head.obj
+
