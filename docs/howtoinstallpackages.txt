@@ -1,0 +1,12 @@
+conda create -n pytorch1.2
+conda activate pytorch1.2
+conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
+conda install -c anaconda vtk
+conda install -c conda-forge libnetcdf=4.7.1
+conda install -c anaconda imageio
+conda install -c conda-forge matplotlib
+conda install -c anaconda scipy
+conda install -c conda-forge tensorboard
+conda install -c conda-forge scikit-image
+conda install -c anaconda absl-py
+

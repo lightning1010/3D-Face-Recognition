@@ -1,0 +1,19 @@
+File  I:/Data/FaceCNN/CNNData/images\V00171112709606_20-07-2011_asd_31_zbuffer.png  raises exception
+ValueError
+
+Preproces
+ - use pre-transformation in the BU-3DFE prepare data code
+
+Logging:
+ - be stringent in using the logging tool
+
+Test both DTU-3D and BU-3DFE on test sets 
+
+GitHub
+ - put file description in header (Kristine credits) (http://web.archive.org/web/20111010053227/http://jaynes.colorado.edu/PythonGuidelines.html#module_formatting)
+ 
+Anaconda cloud
+ - check https://github.com/1adrianb/face-alignment
+ 
+Conda
+ - find out how to put code online
